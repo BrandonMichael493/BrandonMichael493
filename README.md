@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrandonMichael493
-- 👀 I’m interested in Emulation
-- 🌱 I’m currently learning Electrical and Computer Engineering
-- 💞️ I’m looking to collaborate on Raspberry Pi & Arduino related projects
-- 📫 How to reach me brandonmichael493@gmail.com
+- 👀 I’m interested in Emulation, Electronics, Game Design, Network, and Cyber Security
+- 🌱 I have a Bachelors degree in Electrical Engineering and Masters in Cyber Security
+- 💞️ Currently working on Server/Network and Cyber Security based projects
+- 📫 Email: brandon.Hernandez@sorbetunraid.com
